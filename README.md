@@ -40,7 +40,7 @@ Incluye también evaluación de robustez ante **ruido tipo sal y pimienta**.
 
 ```
 📂 galaxy-m51-vision-ai/
-├── notebook/         # Jupyter Notebook con el pipeline completo
+├── notebook/         # galaxy_m51_vision_ai_RobinsonMiranda.ipynb
 ├── latex-report/     # Artículo científico en formato LaTeX
 ├── images/           # Imágenes procesadas (originales y resultados)
 ├── code/             # Scripts de soporte (opcional)
